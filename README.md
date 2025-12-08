@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">Vladislav – developer 👨‍💻 
+### <div align="center">WhatISlove 👨‍💻 
 </div>  
   
 
