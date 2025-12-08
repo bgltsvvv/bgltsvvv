@@ -7,13 +7,9 @@
 </div>  
   
 
-- 🔭 I'm currently learning the entire DevOps developer stack and the basics of frontend programming.
+- 🔭 I'm currently learning the developer stack .
   
   
-
-- 🌱 I 'm currently working to pet-project's on github and getting a bachelor's degree in information communication networks and mobile communication technologies at the Moscow Aviation Institute In Moscow  
-  
-
 <br/>  
 
 
