@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">WhatISlove 👨‍💻 
+### <div align="center">Vladislav Aleksandrovich 
 </div>  
   
 
@@ -56,9 +56,9 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/bgltsvvv" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
+<a href="(https://mail.ru/profile/vlad_begletsov)" target="_blank">
+<img src="https://img.shields.io/badge/mail.ru-%23000000.svg?&style=for-the-badge&logo=maildotru&logoColor=white" alt="mailru" style="margin-bottom: 5px;" />
+</a> 
 <a href="https://instagram.com/@vlaaad1k" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
