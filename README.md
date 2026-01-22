@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://i.pinimg.com/1200x/5f/e3/d8/5fe3d8f4da8ec2e2ec544f69df23d36d.jpg" align="center" style="width: 100%" />
+<img src="https://c.tenor.com/h2Ie8OAWWJIAAAAC/tenor.gif" align="center" style="width: 800px" />
 </div>  
   
 
@@ -25,7 +25,7 @@
 ### Frontend  
 <div align="center">  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /> </a>  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
  
 </div>
@@ -58,11 +58,7 @@
 <div align="center">
 <a href="https://mail.ru/profile/vlad_begletsov" target="_blank">
 <img src="https://img.shields.io/badge/mail.ru-%23000000.svg?&style=for-the-badge&logo=maildotru&logoColor=white" alt="mailru" style="margin-bottom: 5px;" />
-</a> 
-<a href="https://instagram.com/@vlaaad1k" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-  <a href="https://t.me/bgltsvvv" target="_blank">
+<a href="https://t.me/bgltsvvv" target="_blank">
 <img src=https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white alt=telegram style="margin-bottom: 5px;" />
 </a>  
 </div>  
