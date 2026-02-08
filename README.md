@@ -10,7 +10,6 @@
 - 🔭 I'm currently learning the developer stack | today learning JavaScript --> next React.
 - 🤔 I Creating my GTD pet-project
 - 🤓 I study the theory of mass service and the basics of communication at the university
-- 📚 I want to work with someone in a team.
 
 
 
