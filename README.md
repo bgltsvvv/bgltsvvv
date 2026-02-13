@@ -17,7 +17,7 @@
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<table><tr><td valign="top" width="33%" align="center">
 
 
 
@@ -50,26 +50,13 @@
 
 </td></tr></table>  
 
-<br/>  
 
 
-## Connect with me  
+---
+
 <div align="center">
-<a href="https://mail.ru/profile/vlad_begletsov" target="_blank">
-<img src="https://img.shields.io/badge/mail.ru-%23000000.svg?&style=for-the-badge&logo=maildotru&logoColor=white" alt="mailru" style="margin-bottom: 5px;" />
-<a href="https://t.me/bgltsvvv" target="_blank">
-<img src=https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white alt=telegram style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-
-<br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=bgltsvvv&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=bgltsvvv&show_icons=true&count_private=true&hide_border=true" align="center" />
+</div>
 
 
 
@@ -84,4 +71,19 @@
 
 <div align="center"></div>
 <br />
+
+<br/>  
+
+
+## Connect with me  
+<div align="center">
+<a href="https://mail.ru/profile/vlad_begletsov" target="_blank">
+<img src="https://img.shields.io/badge/mail.ru-%23000000.svg?&style=for-the-badge&logo=maildotru&logoColor=white" alt="mailru" style="margin-bottom: 5px;" />
+<a href="https://t.me/bgltsvvv" target="_blank">
+<img src=https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white alt=telegram style="margin-bottom: 5px;" />
+</a>  
+</div>  
+  
+
+<br/>  
 
